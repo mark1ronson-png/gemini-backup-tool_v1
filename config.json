@@ -1,0 +1,38 @@
+{
+  "browsers": {
+    "chrome": {
+      "name": "Google Chrome",
+      "executable": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+      "user_data": "C:\\Users\\{USER}\\AppData\\Local\\Google\\Chrome\\User Data",
+      "profile": "Default"
+    },
+    "brave": {
+      "name": "Brave Browser",
+      "executable": "C:\\Program Files\\BraveSoftware\\Brave-Browser\\Application\\brave.exe",
+      "user_data": "C:\\Users\\{USER}\\AppData\\Local\\BraveSoftware\\Brave-Browser\\User Data",
+      "profile": "Default"
+    },
+    "edge": {
+      "name": "Microsoft Edge",
+      "executable": "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe",
+      "user_data": "C:\\Users\\{USER}\\AppData\\Local\\Microsoft\\Edge\\User Data",
+      "profile": "Default"
+    },
+    "opera": {
+      "name": "Opera Browser",
+      "executable": "C:\\Users\\{USER}\\AppData\\Local\\Programs\\Opera\\opera.exe",
+      "user_data": "C:\\Users\\{USER}\\AppData\\Roaming\\Opera Software\\Opera Stable",
+      "profile": "Default"
+    }
+  },
+  "active_browser": null,
+  "custom_browsers": [],
+  "settings": {
+    "wait_time_slow": 1000,
+    "wait_time_fast": 400,
+    "max_retries": 3,
+    "max_messages": 10000,
+    "export_format": ["markdown"]
+  },
+  "gemini_url": "https://gemini.google.com"
+}
